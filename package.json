@@ -1,0 +1,20 @@
+{
+  "name": "littleninja",
+  "version": "1.0.0",
+  "description": "Fast as Ninja,Brave as a Lion",
+  "main": "index.js",
+  "scripts": {
+    "test": "?"
+  },
+  "author": "Ninjawastaken",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^1.3.2",
+    "weather.js": "^0.1.0"
+  }
+}
