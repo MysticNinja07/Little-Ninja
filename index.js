@@ -52,4 +52,4 @@ bot.on("message", async message => {
     }
 })
 
-bot.login("ODU5NjUzNjM4MzgxMjQwMzUy.YNv01g.0D6lctvJCvKXbsHOWfUOzz1FFJY");
+bot.login("Your.Token");
