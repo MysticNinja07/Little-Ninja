@@ -1,1 +1,1 @@
-# Little-Ninja
+First discord bot project
